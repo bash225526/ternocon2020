@@ -22,8 +22,8 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'ternocon_db_2019');
 
-/** MySQL database username */
-define('DB_USER', '19benchtm87');
+/** MySQL database username this is my second try */
+define('DB_USER', 'benchtm');
 
 /** MySQL database password */
 define('DB_PASSWORD', '19bench87!');
